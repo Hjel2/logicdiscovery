@@ -1,7 +1,5 @@
 # Logic Discovery
 
-# Backdoor Taxonomy
-
 This repository contains code for a publication "Architectural Neural Backdoors from First Principles".
 
 The paper can be found on [arxiv](https://arxiv.org/abs/2402.06957).
